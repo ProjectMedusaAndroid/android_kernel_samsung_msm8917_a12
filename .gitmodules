@@ -1,0 +1,3 @@
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/ProjectMedusaAndroid/arm-gcc-4.9-brillo-m10-release
